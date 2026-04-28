@@ -1,2 +1,2 @@
-volcengine-python-sdk[ark]
+volcenginesdkarkruntime
 streamlit
