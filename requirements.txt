@@ -1,2 +1,2 @@
-./wheels/volcengine_python_sdk-5.0.25-py2.py3-none-any.whl
+volcengine-python-sdk[ark]
 streamlit
