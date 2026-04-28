@@ -108,7 +108,7 @@ with tab1:
     api_key = st.sidebar.text_input(
         "ARK API Key",
         type="password",
-        value="ark-f72efcfb-2574-4852-a696-939009e41e09-c5e0d",  # 默认填好
+        value="",  # 留空，部署后请在网页侧边栏填写你的 ARK API Key
         help="在火山引擎控制台获取"
     )
     model_choice = st.sidebar.selectbox("选择模型", [
