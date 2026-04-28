@@ -1,6 +1,6 @@
 """
 Seedance 2.0 视频生成 - 图形界面版
-使用方法：pip install streamlit volcenginesdkarkruntime
+使用方法：pip install streamlit volcengine-python-sdk[ark]
 运行：streamlit run video_gen_app.py
 """
 
@@ -9,7 +9,7 @@ import os
 import time
 import json
 import datetime
-from volcenginesdkarkruntime import Ark
+from volcengine.base.ark import Ark
 
 st.set_page_config(page_title="Seedance 2.0 视频生成", page_icon="🎬")
 
