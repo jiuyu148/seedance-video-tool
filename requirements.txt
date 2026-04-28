@@ -1,3 +1,2 @@
---extra-index-url https://packages.volcengine.com/wrappers/ve-sdk/ark/
+./wheels/volcengine_python_sdk-5.0.25-py2.py3-none-any.whl
 streamlit
-volcenginesdkarkruntime
