@@ -1,2 +1,3 @@
+--extra-index-url https://packages.volcengine.com/wrappers/ve-sdk/ark/
 streamlit
 volcenginesdkarkruntime
